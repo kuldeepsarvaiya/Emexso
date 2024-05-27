@@ -976,7 +976,8 @@ a.sub-btn {
 
 /* media query */
 
-@media only screen and (min-width: 340px) and (max-width: 479px) {
+@media only screen and (min-width: 32
+                        0px) and (max-width: 479px) {
 
     /* Header Section Starts */
 
